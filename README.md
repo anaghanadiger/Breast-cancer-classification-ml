@@ -53,6 +53,20 @@ Screenshots included:
 
 Stored in the `screenshots/` folder.
 
+## Correlation Heat Map
+<img width="1072" height="992" alt="Correlation" src="https://github.com/user-attachments/assets/81759325-c389-4f34-b2c5-0095c9c51b72" />
+
+## Confusion Matrix – Logistic Regression
+<img width="498" height="455" alt="Log_CM" src="https://github.com/user-attachments/assets/f7cf1e55-6f84-4852-bc35-a134c775f7a5" />
+
+## Confusion Matrix – Random Forest
+<img width="498" height="455" alt="RF_CM" src="https://github.com/user-attachments/assets/81017461-f406-4a0a-b00b-3d846c9eec14" />
+
+## Feature Importance – Random Forest
+<img width="989" height="590" alt="RF_FI" src="https://github.com/user-attachments/assets/e5187463-6f3f-46f1-9648-ccc9263380ad" />
+
+
+
 ---
 
 ## Technologies Used
